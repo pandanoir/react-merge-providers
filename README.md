@@ -1,6 +1,6 @@
 # react-merge-providers
 
-This package provides provides *type-safe* way to merge providers flat.
+This package provides *type-safe* way to merge providers flat.
 
 # Install
 
