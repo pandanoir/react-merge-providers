@@ -1,0 +1,28 @@
+{
+  "name": "react-merge-providers",
+  "version": "0.0.1",
+  "description": "type-safe way to merge providers flat",
+  "main": "main.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandanoir/react-merge-providers.git"
+  },
+  "keywords": [],
+  "author": "Naoto Ikuno <moon_in_france@yahoo.co.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandanoir/react-merge-providers/issues"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.8.0",
+    "react": "^16.8.0",
+    "typescript": "^3.8.0"
+  },
+  "files": [
+    "main.tsx",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://github.com/pandanoir/react-merge-providers#readme"
+}
