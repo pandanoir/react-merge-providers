@@ -1,6 +1,6 @@
 {
   "name": "react-merge-providers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "type-safe way to merge providers flat",
   "main": "main.tsx",
   "repository": {
